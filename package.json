@@ -10,7 +10,7 @@
   "dependencies": {
     "animated-scroll-to": "^2.0.10",
     "classnames": "^2.2.6",
-    "framer-motion": "^2.7.7",
+    "framer-motion": "^2.9.4",
     "next": "9.5.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
